@@ -1,0 +1,15 @@
+﻿
+.home-card {
+    border-radius: 15px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.home-card:hover {
+    transform: translateY(-5px);
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+
